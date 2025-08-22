@@ -1,0 +1,31 @@
+.side-width{
+    width: 300px;
+}
+
+.fs-14{
+    font-size: 14px;
+}
+
+.btn-style{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-right: 12px;
+    padding-left: 20px;
+}
+
+.tab-btn-bg{
+    .nav-link{
+        background-color: $white;
+    }
+}
+
+.input-width{
+    width: 100%;
+}
+
+@media (min-width: 576px){
+    .input-md-width{
+        width: 656px;
+    }
+
+}
